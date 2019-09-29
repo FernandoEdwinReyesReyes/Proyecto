@@ -21,7 +21,6 @@ namespace FormResgistrar
         {
             Console.WriteLine("");
             Console.ReadLine();
-
         }
     }
 }
